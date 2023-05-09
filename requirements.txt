@@ -2,7 +2,6 @@ attrs==22.1.0
 iniconfig==1.1.1
 itsdangerous==2.1.2
 Jinja2==3.1.2
-MarkupSafe==2.1.1
 mysql-connector-python==8.0.32
 numpy==1.24.1
 packaging==21.3
